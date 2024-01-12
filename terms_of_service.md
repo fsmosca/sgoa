@@ -2,7 +2,7 @@
 
 _Last Updated: 2024-01-12_
 
-Welcome to StreamlitApp! We are excited to have you aboard. Please read these Terms of Service ("Terms", "Terms of Service") carefully before using the [Your App URL] website and the StreamlitApp mobile application (the "Service") operated by [Your Legal Company Name] ("us", "we", or "our").
+Welcome to StreamlitApp! We are excited to have you aboard. Please read these Terms of Service ("Terms", "Terms of Service") carefully before using the [Your App URL] website and the StreamlitApp mobile application (the "Service") operated by XYZRQGBS Company ("us", "we", or "our").
 
 Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users, and others who access or use the Service.
 
@@ -18,13 +18,13 @@ By using our Service, you agree to the following:
 
 **2. Intellectual Property**
 
-The Service and its original content, features, and functionality are and will remain the exclusive property of [Your Legal Company Name] and its licensors.
+The Service and its original content, features, and functionality are and will remain the exclusive property of XYZRQGBS Company and its licensors.
 
 **3. Links To Other Web Sites**
 
-Our Service may contain links to third-party web sites or services that are not owned or controlled by [Your Legal Company Name].
+Our Service may contain links to third-party web sites or services that are not owned or controlled by XYZRQGBS Company.
 
-[Your Legal Company Name] has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third-party web sites or services. You further acknowledge and agree that [Your Legal Company Name] shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods, or services available on or through any such web sites or services.
+XYZRQGBS Company has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third-party web sites or services. You further acknowledge and agree that XYZRQGBS Company shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods, or services available on or through any such web sites or services.
 
 **4. Termination**
 
