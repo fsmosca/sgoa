@@ -1,6 +1,6 @@
 **Privacy Policy for StreamlitApp**
 
-_Last Updated: [2024-01-12]_
+_Last Updated: 2024-01-12_
 
 Welcome to StreamlitApp ("we", "us", "our"). We respect your privacy and are committed to protecting your personal data. This privacy policy will inform you as to how we look after your personal data when you visit our application (regardless of where you visit it from) and tell you about your privacy rights and how the law protects you.
 
