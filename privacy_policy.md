@@ -10,10 +10,10 @@ This privacy policy aims to give you information on how StreamlitApp collects an
 
 StreamlitApp is the controller and responsible for your personal data.
 
-**Contact Details:**
-Full name of legal entity: Ferdinand Mosca
-Email address: ferdinandmosca@googlemail.com
-Postal address: Manila, Philippines
+**Contact Details:**  
+Full name of legal entity: Ferdinand Mosca  
+Email address: ferdinandmosca@googlemail.com  
+Postal address: Manila, Philippines  
 
 **2. The Data We Collect About You**
 
