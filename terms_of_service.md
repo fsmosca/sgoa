@@ -1,14 +1,14 @@
-**Terms of Service for StreamlitApp**
+**Terms of Service for Contact App**
 
-_Last Updated: 2024-01-12_
+_Last Updated: 2024-01-13_
 
-Welcome to StreamlitApp! We are excited to have you aboard. Please read these Terms of Service ("Terms", "Terms of Service") carefully before using the [Your App URL] website and the StreamlitApp mobile application (the "Service") operated by XYZRQGBS Company ("us", "we", or "our").
+Welcome to Contact App! We are excited to have you aboard. Please read these Terms of Service ("Terms", "Terms of Service") carefully before using the [Your App URL] website and the Contact App mobile application (the "Service") operated by XYZRQGBS Company ("us", "we", or "our").
 
 Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users, and others who access or use the Service.
 
 **1. Use of Our Service**
 
-StreamlitApp provides [brief description of what your app does].
+Contact App provides [brief description of what your app does].
 
 By using our Service, you agree to the following:
 - You must be at least 8 years old to use our Service.
