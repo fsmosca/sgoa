@@ -1,6 +1,5 @@
 streamlit
 requests
 oauthlib
-python-dotenv
 google-auth
 google-auth-oauthlib
