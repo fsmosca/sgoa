@@ -1,14 +1,14 @@
-**Privacy Policy for StreamlitApp**
+**Privacy Policy for Contact App**
 
-_Last Updated: 2024-01-12_
+_Last Updated: 2024-01-13_
 
-Welcome to StreamlitApp ("we", "us", "our"). We respect your privacy and are committed to protecting your personal data. This privacy policy will inform you as to how we look after your personal data when you visit our application (regardless of where you visit it from) and tell you about your privacy rights and how the law protects you.
+Welcome to Contact App ("we", "us", "our"). We respect your privacy and are committed to protecting your personal data. This privacy policy will inform you as to how we look after your personal data when you visit our application (regardless of where you visit it from) and tell you about your privacy rights and how the law protects you.
 
 **1. Important Information and Who We Are**
 
-This privacy policy aims to give you information on how StreamlitApp collects and processes your personal data through your use of this application, including any data you may provide through this app when you sign up, use our service, or interact with us.
+This privacy policy aims to give you information on how Contact App collects and processes your personal data through your use of this application, including any data you may provide through this app when you sign up, use our service, or interact with us.
 
-StreamlitApp is the controller and responsible for your personal data.
+Contact App is the controller and responsible for your personal data.
 
 **Contact Details:**  
 Full name of legal entity: Ferdinand Mosca  
