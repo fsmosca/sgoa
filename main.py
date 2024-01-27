@@ -6,9 +6,6 @@ from streamlit import session_state as ss
 from assets.data.sample import data
 
 
-# os.environ['OAUTHLIB_INSECURE_TRANSPORT'] = '1'  # allows http for testing
-
-
 st.set_page_config(
     page_title='Contact App',
     page_icon='./assets/icon/logo.png',
