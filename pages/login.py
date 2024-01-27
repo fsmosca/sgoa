@@ -6,9 +6,6 @@ from oauthlib.oauth2 import WebApplicationClient
 from modules.google import GOOGLE_CLIENT_ID, get_auth_url
 
 
-# os.environ['OAUTHLIB_INSECURE_TRANSPORT'] = '1'  # allows http for testing
-
-
 st.set_page_config(
     page_title='Contact App',
     page_icon='./assets/icon/logo.png',
