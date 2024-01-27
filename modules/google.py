@@ -6,8 +6,7 @@
    into our App. A web page will be shown to the users to grant our App to
    access the users account info, such as name and email, and more depending
    on the scope that our App needs in order for it to function as intended.
-3. Once the users have logged in, our App can now access the users info
-   limited by the scopes that we define in google console.
+3. Once the users have logged in, our App can now access the users info.
 """
 
 
@@ -15,7 +14,7 @@ import requests
 import streamlit as st
 
 
-REDIRECT_URI = 'http://localhost:8501'
+REDIRECT_URI = 'http://localhost:8501/auth'
 GOOGLE_CLIENT_ID = st.secrets["CLIENT_ID"]
 GOOGLE_CLIENT_SECRET = st.secrets["CLIENT_SECRET"]
 GOOGLE_DISCOVERY_URL = "https://accounts.google.com/.well-known/openid-configuration"
@@ -58,7 +57,8 @@ def exchange_code(code, client):
         data=body,
         auth=(GOOGLE_CLIENT_ID, GOOGLE_CLIENT_SECRET),
     )
-    return token_response.json()
+    tokens = token_response.json()
+    return tokens
 
 
 def get_user_info(token):
